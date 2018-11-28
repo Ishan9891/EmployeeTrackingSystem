@@ -1,0 +1,2 @@
+# EmployeeTrackingSystem
+Employee Tacking System is an application which is developed to track team-members and employee which is working in a particular team.This application is developed in JAVA. This application comprises two part first is leader and second is employee both have their own dashboard to perform operations. Team leader assign tasks to team member and with the help of this application he/she can track each and every team member work progress and other stuffs.
